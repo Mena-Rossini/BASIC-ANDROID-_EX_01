@@ -123,8 +123,8 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-The above is the code Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
+The above is the code Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 ## OUTPUT:
 ## OnCreate Executed:
